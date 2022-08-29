@@ -2,4 +2,5 @@ hello git!
 hello git!
 hello git!
 hello git!
-goto other place please!123
+goto other place please!321
+>>>>>>> hot_fix
